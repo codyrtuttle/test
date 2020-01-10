@@ -6,3 +6,4 @@ For example, I'm not sure at all how to save this or update the actual document 
 
 Anybody actually reading this is really confused, I'm sure. 
 
+Ok, I just pulled this into RStudio after pushing from Sublime, and it seems like it will work. tbd
